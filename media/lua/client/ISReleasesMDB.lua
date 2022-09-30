@@ -4,7 +4,7 @@ require "ISUI/ISPanel"
 
 ISReleasesMDB = ISPanel:derive("ISReleasesMDB");
 
-local MOD_VERSION = "4.3.5"
+local MOD_VERSION = "4.3.6_pzhydro"
 
 local FONT_HGT_SMALL = getTextManager():getFontHeight(UIFont.Small)
 local FONT_HGT_MEDIUM = getTextManager():getFontHeight(UIFont.Medium)

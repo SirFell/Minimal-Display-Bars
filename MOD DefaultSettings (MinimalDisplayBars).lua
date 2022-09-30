@@ -48,7 +48,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -75,7 +75,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -102,7 +102,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -129,7 +129,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -156,7 +156,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -183,7 +183,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -210,7 +210,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -237,7 +237,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -264,7 +264,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;

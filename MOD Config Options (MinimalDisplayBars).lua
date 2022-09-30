@@ -48,7 +48,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -75,7 +75,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -102,7 +102,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -129,7 +129,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -156,7 +156,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -183,7 +183,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -210,7 +210,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -237,7 +237,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -264,7 +264,7 @@ local obj1 = {
 		};
 		["isMovable"] = true;
 		["isResizable"] = false;
-		["isVisible"] = true;
+		["isVisible"] = false;
 		["isVertical"] = true;
 		["alwaysBringToTop"] = true;
 		["showMoodletThresholdLines"] = true;
@@ -274,5 +274,30 @@ local obj1 = {
 		["imageSize"] = 22;
 		["showImage"] = false;
 	};
+    ["stress"] = {
+        ["x"] = 85 + (8 * 8),
+        ["y"] = 30,
+        ["width"] = 8,
+        ["height"] = 150,
+        ["l"] = 2,
+        ["t"] = 3,
+        ["r"] = 2,
+        ["b"] = 3,
+        ["color"] = {red = (200 / 255), 
+                    green = (0 / 255), 
+                    blue = (100 / 255), 
+                    alpha = 0.75},
+        ["isMovable"] = true,
+        ["isResizable"] = false,
+        ["isVisible"] = true,
+        ["isVertical"] = true,
+        ["alwaysBringToTop"] = true,
+        ["showMoodletThresholdLines"] = true,
+        ["isCompact"] = false,
+        ["imageShowBack"] = true,
+        ["imageName"] = "media/ui/Moodle_stressed.png",
+        ["imageSize"] = 22,
+        ["showImage"] = false,
+    };	
 }
 return obj1

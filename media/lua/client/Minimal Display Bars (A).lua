@@ -4,14 +4,14 @@
 --****************************
 --* Coded by: ATPHHe
 --* Date Created: 02/19/2020
---* Date Modified: 06/27/2020
+--* Date Modified: 09/30/2022
 --*******************************
 --
 --============================================================
 
 MinimalDisplayBars = {}
 
-MinimalDisplayBars.MOD_ID = "MinimalDisplayBars"
+MinimalDisplayBars.MOD_ID = "MinimalDisplayBarsPZHydro"
 
 local gameVersion = getCore():getVersionNumber()
 MinimalDisplayBars.gameVersionNum = 0
@@ -471,7 +471,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -496,7 +496,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -521,7 +521,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -546,7 +546,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -571,7 +571,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -596,7 +596,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -621,7 +621,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -646,7 +646,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -671,7 +671,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,
@@ -696,7 +696,7 @@ local DEFAULT_SETTINGS = {
                     alpha = 0.75},
         ["isMovable"] = true,
         ["isResizable"] = false,
-        ["isVisible"] = true,
+        ["isVisible"] = false,
         ["isVertical"] = true,
         ["alwaysBringToTop"] = true,
         ["showMoodletThresholdLines"] = true,

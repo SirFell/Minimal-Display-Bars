@@ -1,5 +1,8 @@
 ========================================================
 ======= UPDATES (Minimal Display Bars) =======
+4.3.6_PZHydro
+- Include changes from SenorSmartyPants's fork (stress bar and fix for hunger bar showing thirst data)
+- Make bars disabled by default on gromclads request
 4.3.5
 - Fixed bug that caused HP display bar to continue flashing after tending to wounds.
 
